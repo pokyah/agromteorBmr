@@ -1,0 +1,13 @@
+range = 10 -> 200
+block = no
+nugget = 0
+nmax, nmin, = NA
+model= sph ou exp
+weights gstat function => https://github.com/pokyah/mlr/blob/gstat/R/RLearner_spatial_regr_gstat.R
+
+
+https://www.cdrc.ac.uk/wp-content/uploads/2016/11/Practical_11.html
+http://www.spatialanalysisonline.com/HTML/?deterministic_interpolation_me.htm
+http://www.academia.edu/20961665/A_Comparison_of_Thiessen_Polygon_Kriging_and_Spline_Models_of_Potential_UV_Exposure
+https://quantdev.ssri.psu.edu/sites/qdev/files/kNN_tutorial.html
+https://daviddalpiaz.github.io/r4sl/k-nearest-neighbors.html#regression
